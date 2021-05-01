@@ -1,5 +1,5 @@
 ## E-Commerce front-end made with React
 
--Stripe integration
--CSS with styled components
--Single Page Application with React-Router
+1. Stripe integration
+2. CSS with styled components
+3. Single Page Application with React-Router
